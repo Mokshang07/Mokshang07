@@ -60,31 +60,39 @@ Embedded Software Engineer | Firmware Developer | ARM7 LPC2129 | Linux System Pr
 
 ### 🚗 Vehicle Telemetry and Data Acquisition System
 
-- ARM7 LPC2129
-- Embedded C
-- UART
-- SPI
-- I2C
-- DS1307 RTC
-- MCP3204 ADC
-- 16x2 LCD
+**Tech Stack:** ARM7 LPC2129, Embedded C, UART, SPI, I2C, DS1307 RTC, MCP3204 ADC
 
-Real-time vehicle telemetry system for acquiring temperature, voltage, and light intensity with timestamped sensor data.
+- Developed a real-time Data Acquisition System for monitoring temperature, voltage, and light intensity.
+- Integrated RTC for timestamping sensor data and displayed live readings on a 16×2 LCD.
+- Transmitted sensor data to a PC via UART for real-time monitoring and logging.
 
 ---
 
-### 🐚 Unix Shell Interpreter
+### 🐚 UNIX Shell Interpreter
 
-A custom Linux shell written in C supporting:
+**Tech Stack:** C, Linux, System Calls
 
-- Built-in Commands
-- fork()
-- execvp()
-- pipe()
-- dup2()
-- Command History
-- I/O Redirection
+- Built a custom UNIX shell supporting built-in commands, process creation, pipes, and I/O redirection.
+- Implemented `fork()`, `execvp()`, `wait()`, `pipe()`, and `dup2()` system calls.
+- Added command history and sequential command execution.
 
+---
+
+### 🧠 Memory Management Simulation
+
+**Tech Stack:** C, Linux, Operating Systems
+
+- Simulated virtual memory using FIFO page replacement with reference-count-based aging.
+- Implemented page fault handling, dirty-page management, and configurable physical memory.
+- Generated execution statistics including page faults, memory accesses, and disk writes.
+---
+### 📚 Generic Stack Management System
+
+**Tech Stack:** C++, Templates, Object-Oriented Programming
+
+- Developed a generic stack implementation using C++ templates supporting multiple data types.
+- Implemented Push, Pop, Display, and overflow/underflow handling.
+- Added a menu-driven interface with support for creating new stacks or continuing with an existing one.
 ---
 
 ### 🎓 Student Database Management System
