@@ -97,15 +97,13 @@ Embedded Software Engineer | Firmware Developer | ARM7 LPC2129 | Linux System Pr
 
 ### 🎓 Student Database Management System
 
-A C project using linked lists supporting:
+A console-based student database application developed in C using linked lists for dynamic data management.
 
-- Insert
-- Delete
-- Search
-- Display
-- Dynamic Memory Allocation
+- Add, Delete, Search, and Update student records
+- Dynamic memory allocation using linked lists
+- Menu-driven interface
+- Efficient record management and traversal
 
----
 
 ## 📈 GitHub Stats
 
