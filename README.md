@@ -9,7 +9,7 @@ Embedded Firmware Developer| Linux System Programming | Embedded C
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Electronics & Communication Engineering
-- 📍 Based in **Bangalore, India**
+- 📍 Based in **Ahmedabad, India**
 - 🚀 Currently pursuing **Embedded Systems Training at Vector India**
 - 💻 Passionate about **Embedded C**, **Firmware Development**, and **Embedded Linux**
 - 🌱 Currently learning **RTOS**, **Embedded Linux**, and **Device Driver Development**
