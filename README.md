@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mokshang Shah</h1>
 
 <h3 align="center">
-Embedded Software Engineer | Firmware Developer | ARM7 LPC2129 | Linux System Programming
+Embedded Firmware Developer| Linux System Programming | Embedded C
 </h3>
 
 ---
